@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "do-product-card",
+  "name": "jaau-product-card",
   "author": "JulioAvalos",
   "module": "dist/do-product-card.esm.js",
   "size-limit": [
