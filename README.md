@@ -1,4 +1,4 @@
-# DO-Product-Card
+# jauu-Product-Card
 
 Este es un paquete de pruebas de despliegue en NPM
 
@@ -7,7 +7,7 @@ Este es un paquete de pruebas de despliegue en NPM
 ## Ejemplo
 
 ```
-import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'do-product-card';
+import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'jauu-product-card';
 ```
 
 ```
